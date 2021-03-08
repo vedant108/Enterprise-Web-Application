@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<TVCatalog>
+    <tv id="SAMSUNG H8741">
+        <name>SAMSUNG H8741</name>
+        <price>1197.99</price>
+        <image>samsungQ70T.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>8.0</discount>
+		<quantity>1</quantity>
+		<sale>Yes</sale>
+        <accessories>
+            <accessory>Samsung Remote</accessory>
+            <accessory>TV Wall Mount</accessory>
+            <accessory>PowerBridge</accessory>	
+        </accessories>
+    </tv>
+	<tv id="SAMSUNG QJI">
+        <name>SAMSUNG QJI</name>
+        <price>747.99</price>
+        <image>samsungCureved7.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+		<quantity>5</quantity>
+		<sale>No</sale>
+        <accessories>
+            <accessory>Samsung Remote</accessory>
+            <accessory>TV Wall Mount</accessory>
+            <accessory>PowerBridge</accessory>
+        </accessories>
+    </tv>
+    <tv id="Sony C SERIES">
+        <name>Sony C SERIES</name>
+        <price>2498.00</price>
+        <image>sonyXBR.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>100</quantity>
+		<sale>Yes</sale>
+        <accessories>
+            <accessory>TV Wall Mount</accessory>
+            <accessory>PowerBridge</accessory>
+        </accessories>
+    </tv>
+    <tv id="Sony BRAVIA">
+        <name>Sony BRAVIA</name>
+        <price>728.00</price>
+        <image>sonyKD.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>45</quantity>
+		<sale>Yes</sale>
+        <accessories>
+            <accessory>TV Wall Mount</accessory>
+            <accessory>PowerBridge</accessory>
+        </accessories>
+    </tv>
+    <tv id="TCL Hi-Fi with in-built speaker system">
+        <name>TCL Hi-Fi with in-built speaker system</name>
+        <price>629.99</price>
+        <image>TCL65.jpg</image>
+        <manufacturer>TCL</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>50</quantity>
+		<sale>Yes</sale>
+		<accessories>
+            <accessory>TV Wall Mount</accessory>
+            <accessory>PowerBridge</accessory>
+        </accessories>
+    </tv>
+	<tv id="TCL 50">
+        <name>TCL 50</name>
+        <price>339.80</price>
+        <image>TCL50.jpg</image>
+        <manufacturer>TCL</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>50</quantity>
+		<sale>Yes</sale>
+        <accessories>
+            <accessory>TV Wall Mount</accessory>
+            <accessory>PowerBridge</accessory>
+			
+        </accessories>
+    </tv>
+	<tv id="Hitachi TV">
+        <name>Hitachi TV</name>
+        <price>839.80</price>
+        <image>Hitachi TV.jpg</image>
+        <manufacturer>Hitachi</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>37</quantity>
+		<sale>Yes</sale>
+        <accessories>
+            <accessory>TV Wall Mount</accessory>
+            <accessory>PowerBridge</accessory>
+			
+        </accessories>
+    </tv>
+	<tv id="Haier 2650X LED 1080p">
+        <name>Haier 2650X LED 1080p</name>
+        <price>1239.80</price>
+        <image>Haier.jpg</image>
+        <manufacturer>Haier</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+		<quantity>25</quantity>
+		<sale>No</sale>
+        <accessories>
+            <accessory>TV Wall Mount</accessory>
+            <accessory>PowerBridge</accessory>
+			
+        </accessories>
+    </tv>
+</TVCatalog>
+
+<SoundCatalog>
+    <sound id="Bose Wave">
+        <name>Bose Wave</name>
+        <price>599.00</price>
+        <image>Bose Wave.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<quantity>79</quantity>
+		<sale>No</sale>
+		<accessories>
+            <accessory>Team Associated</accessory>
+            <accessory>Dynamic Cardioid</accessory>
+            <accessory>Cable Matters</accessory>
+        </accessories>
+    </sound>
+    <sound id="Bose Rock">
+        <name>Bose Rock</name>
+        <price>2999.00</price>
+        <image>Bose Lifestyle.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<quantity>54</quantity>
+		<sale>Yes</sale>
+		<accessories>
+            <accessory>Team Associated</accessory>
+            <accessory>Dynamic Cardioid</accessory>
+            <accessory>Cable Matters</accessory>
+        </accessories>
+    </sound>
+    <sound id="JBL Go">
+        <name>JBL Go</name>
+        <price>479.15</price>
+        <image>JBL Bar.jpg</image>
+        <manufacturer>JBL</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>46</quantity>
+		<sale>Yes</sale>
+		<accessories>
+            <accessory>Team Associated</accessory>
+            <accessory>Dynamic Cardioid</accessory>
+            <accessory>Cable Matters</accessory>
+        </accessories>
+    </sound>
+    <sound id="JBL Theatre">
+        <name>JBL Theatre</name>
+        <price>299.95</price>
+        <image>JBL Cinema.jpg</image>
+        <manufacturer>JBL</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>48</quantity>
+		<sale>Yes</sale>
+		<accessories>
+            <accessory>Team Associated</accessory>
+            <accessory>Dynamic Cardioid</accessory>
+            <accessory>Cable Matters</accessory>
+        </accessories>
+    </sound>
+    <sound id="Sony SHAKEX">
+        <name>Sony SHAKEX</name>
+        <price>150.99</price>
+        <image>Sony SHAKEX.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>3</quantity>
+		<sale>Yes</sale>
+    </sound>
+	<sound id="Sony YJ86">
+        <name>Sony YJ86</name>
+        <price>348.00</price>
+        <image>Sony XB72.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>76</quantity>
+		<sale>Yes</sale>
+    </sound>
+	
+	<sound id="Harman Kardon Ultra Bass 10.2">
+        <name>Harman Kardon Ultra Bass 10.2</name>
+        <price>187.00</price>
+        <image>Harman Kardon.jpg</image>
+        <manufacturer>Harman</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>18</quantity>
+		<sale>Yes</sale>
+    </sound>
+	<sound id="Yamaha WX">
+        <name>Yamaha WX</name>
+        <price>199.99</price>
+        <image>Yamaha WX.jpg</image>
+        <manufacturer>Yamaha</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>31</quantity>
+		<sale>Yes</sale>
+    </sound>
+</SoundCatalog>
+
+<PhoneCatalog>
+    <phone id="Apple iPhone 11 Pro">
+        <name>Apple iPhone 11 Pro</name>
+        <price>739.99</price>
+        <image>Apple iPhone 11 Pro.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>27.0</discount>
+		<quantity>64</quantity>
+		<sale>Yes</sale>
+    </phone>
+    <phone id="Apple iPhone X">
+        <name>Apple iPhone X</name>
+        <price>409.99</price>
+        <image>Apple iPhone X.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+		<quantity>58</quantity>
+		<sale>Yes</sale>
+    </phone>
+    <phone id="OnePlus 7 Pro">
+        <name>OnePlus 7 Pro</name>
+        <price>499.00</price>
+        <image>OnePlus 7 Pro.jpg</image>
+        <manufacturer>OnePlus</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>76</quantity>
+		<sale>Yes</sale>
+    </phone>
+    <phone id="OnePlus 8 Pro">
+        <name>OnePlus 8 Pro</name>
+        <price>899.99</price>
+        <image>OnePlus 8 Pro.jpg</image>
+        <manufacturer>OnePlus</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>91</quantity>
+		<sale>Yes</sale>
+    </phone>
+    <phone id="Google Pixel 4a">
+        <name>Google Pixel 4a</name>
+        <price>349.99</price>
+        <image>Google Pixel 4a.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>50</quantity>
+		<sale>Yes</sale>
+    </phone>
+	<phone id="Google Pixel 3">
+        <name>Google Pixel 3</name>
+        <price>349.99</price>
+        <image>Google Pixel 3.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>56.0</discount>
+		<quantity>98</quantity>
+		<sale>Yes</sale>
+    </phone>
+	<phone id="Moto G">
+        <name>Moto G</name>
+        <price>299.99</price>
+        <image>Moto G.jpg</image>
+        <manufacturer>Moto</manufacturer>
+        <condition>New</condition>
+        <discount>16.0</discount>
+		<quantity>76</quantity>
+		<sale>Yes</sale>
+    </phone>
+	<phone id="Samsung Galaxy S10">
+        <name>Samsung Galaxy S10</name>
+        <price>272.99</price>
+        <image>Samsung Galaxy.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>50</quantity>
+		<sale>Yes</sale>
+    </phone>
+</PhoneCatalog>
+<LaptopCatalog>
+    <laptop id="Microsoft Surface Book 3">
+        <name>Microsoft Surface Book 3</name>
+        <price>1928.00</price>
+        <image>Microsoft Surface Book 3.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>46</quantity>
+		<sale>Yes</sale>
+    </laptop>
+    <laptop id="Microsoft Surface Go 2">
+        <name>Microsoft Surface Go 2</name>
+        <price>536.00</price>
+        <image>Microsoft Surface Go 2.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>25.0</discount>
+		<quantity>61</quantity>
+		<sale>Yes</sale>
+    </laptop>
+    <laptop id="Lenovo Chromebook Flex">
+        <name>Lenovo Chromebook Flex</name>
+        <price>481.50</price>
+        <image>Lenovo Chromebook Flex.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>18</quantity>
+		<sale>Yes</sale>
+    </laptop>
+    <laptop id="Lenovo Ideapad 3">
+        <name>Lenovo Ideapad 3</name>
+        <price>549.00 </price>
+        <image>Lenovo Ideapad 3.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>13</quantity>
+		<sale>Yes</sale>
+    </laptop>
+    <laptop id="Dell XPS">
+        <name>Dell XPS</name>
+        <price>1689.98</price>
+        <image>Dell XPS.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>73</quantity>
+		<sale>Yes</sale>
+    </laptop>
+	<laptop id="Dell Inspiron">
+        <name>Dell Inspiron</name>
+        <price>573.99</price>
+        <image>Dell Inspiron.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>58</quantity>
+		<sale>Yes</sale>
+    </laptop>
+	<laptop id="Acer Aspire">
+        <name>Acer Aspire</name>
+        <price>519.99</price>
+        <image>Acer Aspire.jpg</image>
+        <manufacturer>Acer</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>56</quantity>
+		<sale>Yes</sale>
+    </laptop>
+	<laptop id="HP Chromebook">
+        <name>HP Chromebook</name>
+        <price>573.99</price>
+        <image>HP.jpg</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>25.0</discount>
+		<quantity>91</quantity>
+		<sale>Yes</sale>
+    </laptop>
+</LaptopCatalog>
+<AssistantCatalog>
+    <assistant id="Google Home Mini">
+        <name>Google Home Mini</name>
+        <price>39.00</price>
+        <image>Google Home Mini.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<quantity>37</quantity>
+		<sale>Yes</sale>
+    </assistant>
+    <assistant id="Google Home Max">
+        <name>Google Home Max</name>
+        <price>299.00</price>
+        <image>Google Home Max.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+		<quantity>64</quantity>
+		<sale>Yes</sale>
+    </assistant>
+	<assistant id="Google Nest Hub">
+        <name>Google Nest Hub</name>
+        <price>89.99</price>
+        <image>Google Nest Hub.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>50</quantity>
+		<sale>Yes</sale>
+    </assistant>
+    <assistant id="Amazon Echo Dot">
+        <name>Amazon Echo Dot</name>
+        <price>49.99</price>
+        <image>Amazon Echo Dot.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>76</quantity>
+		<sale>Yes</sale>
+    </assistant>
+    <assistant id="Amazon Echo Plus">
+        <name>Amazon Echo Plus</name>
+        <price>75.00 </price>
+        <image>Echo Plus.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>20</quantity>
+		<sale>Yes</sale>
+    </assistant>
+	<assistant id="Homepod2">
+        <name>Homepod2</name>
+        <price>299.00 </price>
+        <image>Homepod2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>60</quantity>
+		<sale>Yes</sale>
+    </assistant>
+	<assistant id="facebookportal">
+        <name>Facebookportal</name>
+        <price>399.00 </price>
+        <image>facebookportal.jpg</image>
+        <manufacturer>Facebook</manufacturer>
+        <condition>New</condition>
+        <discount>30.0</discount>
+		<quantity>73</quantity>
+		<sale>Yes</sale>
+    </assistant>
+	<assistant id="LenovoSmart">
+        <name>LenovoSmart</name>
+        <price>199.00 </price>
+        <image>LenovoSmart.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>30.0</discount>
+		<quantity>91</quantity>
+		<sale>Yes</sale>
+    </assistant>
+</AssistantCatalog> 
+<FitnessCatalog>
+    <fitness id="Galaxy Fit">
+        <name>Galaxy Fit</name>
+        <price>49.99</price>
+        <image>Galaxy Fit.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>45</quantity>
+		<sale>Yes</sale>
+    </fitness>
+	<fitness id="Samsung Gear Fit2">
+        <name>Samsung Gear Fit2</name>
+        <price>79.99</price>
+        <image>Samsung Gear Fit2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>15</quantity>
+		<sale>Yes</sale>
+    </fitness>
+    <fitness id="Fitbit Sense">
+        <name>Fitbit Sense</name>
+        <price>329.95</price>
+        <image>Fitbit Sense.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<quantity>55</quantity>
+		<sale>Yes</sale>
+    </fitness>
+	<fitness id="Fitbit Versa 3">
+        <name>Fitbit Versa 3</name>
+        <price>229.95</price>
+        <image>Fitbit Versa 3.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>53</quantity>
+		<sale>Yes</sale>
+    </fitness>
+	<fitness id="FitTrack">
+        <name>FitTrack</name>
+        <price>99.95</price>
+        <image>FitTrack.jpg</image>
+        <manufacturer>FitTrack</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>61</quantity>
+		<sale>Yes</sale>
+    </fitness>
+	<fitness id="AMAZFIT Cor2">
+        <name>AMAZFIT Cor2</name>
+        <price>90.95</price>
+        <image>AMAZFIT Cor2.jpg</image>
+        <manufacturer>AMAZFIT</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>76</quantity>
+		<sale>Yes</sale>
+    </fitness>
+	<fitness id="Suunto 3">
+        <name>Suunto 3</name>
+        <price>227.00</price>
+        <image>Suunto 3.jpg</image>
+        <manufacturer>Suunto</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>91</quantity>
+		<sale>Yes</sale>
+    </fitness>
+</FitnessCatalog>   
+<SmartCatalog>
+    <smart id="Garmin vivoactive 3">
+        <name>Garmin vivoactive 3</name>
+        <price>160.00</price>
+        <image>Garmin vivoactive 3.jpg</image>
+        <manufacturer>Garmin</manufacturer>
+        <condition>New</condition>
+        <discount>25.0</discount>
+		<quantity>73</quantity>
+		<sale>Yes</sale>
+    </smart>
+	<smart id="Garmin Instinct">
+        <name>Garmin Instinct</name>
+        <price>200.00</price>
+        <image>Garmin Instinct.jpg</image>
+        <manufacturer>Garmin</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>64</quantity>
+		<sale>Yes</sale>
+    </smart>
+    <smart id="Apple Watch Series 3">
+        <name>Apple Watch Series 3</name>
+        <price>169.00</price>
+        <image>Apple Watch Series 3.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<quantity>61</quantity>
+		<sale>Yes</sale>
+    </smart>
+	<smart id="Apple Watch Series 6">
+        <name>Apple Watch Series 6</name>
+        <price>699.00</price>
+        <image>Apple Watch Series 6.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>30</quantity>
+		<sale>Yes</sale>
+    </smart>
+	<smart id="Galaxy Active2">
+        <name>Galaxy Active2</name>
+        <price>450.00</price>
+        <image>Galaxy Active2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>40</quantity>
+		<sale>Yes</sale>
+    </smart>
+	<smart id="G-shock">
+        <name>G-shock</name>
+        <price>399.00</price>
+        <image>G-shock.jpg</image>
+        <manufacturer>G-shock</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>46</quantity>
+		<sale>Yes</sale>
+    </smart>
+	<smart id="Fossil Gen 5">
+        <name>Fossil Gen 5</name>
+        <price>699.00</price>
+        <image>FossilGen5.jpg</image>
+        <manufacturer>Fossil</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>82</quantity>
+		<sale>Yes</sale>
+    </smart>
+</SmartCatalog>
+<HeadphoneCatalog>
+    <headphone id="Sony ZX">
+        <name>Sony ZX</name>
+        <price>30.00</price>
+        <image>Sony ZX.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>25.0</discount>
+		<quantity>64</quantity>
+		<sale>Yes</sale>
+    </headphone>
+	<headphone id="Sony Wireless">
+        <name>Sony Wireless</name>
+        <price>60.00</price>
+        <image>Sony Wireless.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>63</quantity>
+		<sale>Yes</sale>
+    </headphone>
+    <headphone id="Skullcandy Crusher">
+        <name>Skullcandy Crusher</name>
+        <price>199.99</price>
+        <image>Skullcandy Crusher.jpg</image>
+        <manufacturer>Skullcandy</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<quantity>68</quantity>
+		<sale>Yes</sale>
+    </headphone>
+	<headphone id="Skullcandy Riff">
+        <name>Skullcandy Riff</name>
+        <price>20.00</price>
+        <image>Skullcandy Riff.jpg</image>
+        <manufacturer>Skullcandy</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>29</quantity>
+		<sale>Yes</sale>
+    </headphone>
+	<headphone id="Sennheiser HD">
+        <name>Sennheiser HD</name>
+        <price>50.00</price>
+        <image>Sennheiser HD.jpg</image>
+        <manufacturer>Sennheiser</manufacturer>
+        <condition>New</condition>
+        <discount>35.0</discount>
+		<quantity>24</quantity>
+		<sale>Yes</sale>
+    </headphone>
+	<headphone id="JBL_T460BT">
+        <name>JBL_T460BT</name>
+        <price>30.00</price>
+        <image>JBL_T460BT.jpg</image>
+        <manufacturer>JBL</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>21</quantity>
+		<sale>Yes</sale>
+    </headphone>
+	<headphone id="Beats Studio3">
+        <name>Beats Studio3</name>
+        <price>199.99</price>
+        <image>Beats Studio3.jpg</image>
+        <manufacturer>Beats</manufacturer>
+        <condition>New</condition>
+        <discount>8.0</discount>
+		<quantity>25</quantity>
+		<sale>Yes</sale>
+    </headphone>
+</HeadphoneCatalog>
+
+<PetCatalog>
+    <pet id="FitBark GPS 1.0">
+        <name>FitBark GPS 1.0</name>
+        <price>66.00</price>
+        <image>FitBark GPS 1.0.jpg</image>
+        <manufacturer>FitBark</manufacturer>
+        <condition>New</condition>
+        <discount>25.0</discount>
+		<quantity>38</quantity>
+		<sale>Yes</sale>
+    </pet>
+	<pet id="FitBark GPS 2.0">
+        <name>FitBark GPS 2.0</name>
+        <price>100.00</price>
+        <image>FitBark GPS 2.0.jpg</image>
+        <manufacturer>FitBark</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>34</quantity>
+		<sale>Yes</sale>
+    </pet>
+    <pet id="PetFon Pet">
+        <name>PetFon Pet</name>
+        <price>189.99 </price>
+        <image>PetFon Pet.jpg</image>
+        <manufacturer>PetFon</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<quantity>39</quantity>
+		<sale>Yes</sale>
+    </pet>
+	<pet id="PetFon Pet 2.0">
+        <name>PetFon Pet 2.0</name>
+        <price>259.99 </price>
+        <image>PetFon Pet 2.0.jpg</image>
+        <manufacturer>PetFon</manufacturer>
+        <condition>New</condition>
+        <discount>12.0</discount>
+		<quantity>35</quantity>
+		<sale>Yes</sale>
+    </pet>
+	<pet id="findsterPro">
+        <name>findsterPro</name>
+        <price>150.99 </price>
+        <image>findsterPro.jpg</image>
+        <manufacturer>findsterPro</manufacturer>
+        <condition>New</condition>
+        <discount>12.0</discount>
+		<quantity>37</quantity>
+		<sale>Yes</sale>
+    </pet>
+	<pet id="Cube Bluetooth">
+        <name>Cube Bluetooth</name>
+        <price>350.99 </price>
+        <image>Cube Bluetooth.jpg</image>
+        <manufacturer>Cube</manufacturer>
+        <condition>New</condition>
+        <discount>12.0</discount>
+		<quantity>37</quantity>
+		<sale>Yes</sale>
+    </pet>
+	<pet id="Tractive GPS">
+        <name>Tractive GPS</name>
+        <price>299.99</price>
+        <image>Tractive GPS.jpg</image>
+        <manufacturer>Tractive</manufacturer>
+        <condition>New</condition>
+        <discount>12.0</discount>
+		<quantity>77</quantity>
+		<sale>Yes</sale>
+    </pet>
+</PetCatalog>
+
+<VirtualCatalog>
+    <virtual id="Oculus Quest 2">
+        <name>Oculus Quest 2</name>
+        <price>299.00</price>
+        <image>Oculus Quest 2.jpg</image>
+        <manufacturer>Oculus</manufacturer>
+        <condition>New</condition>
+        <discount>25.0</discount>
+		<quantity>55</quantity>
+		<sale>Yes</sale>
+    </virtual>
+	<virtual id="Oculus Rift">
+        <name>Oculus Rift</name>
+        <price>399.00</price>
+        <image>Oculus Rift.jpg</image>
+        <manufacturer>Oculus</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		<quantity>11</quantity>
+		<sale>Yes</sale>
+    </virtual>
+    <virtual id="HTC Vive Cosmos">
+        <name>HTC Vive Cosmos</name>
+        <price>899.99</price>
+        <image>HTC Vive Cosmos.jpg</image>
+        <manufacturer>HTC</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<quantity>50</quantity>
+		<sale>Yes</sale>
+    </virtual>
+	<virtual id="HTC VIVE Pro">
+        <name>HTC VIVE Pro</name>
+        <price>1199.00</price>
+        <image>HTC VIVE Pro.jpg</image>
+        <manufacturer>HTC</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>13</quantity>
+		<sale>Yes</sale>
+    </virtual>
+	<virtual id="Sony PlayStation VR">
+        <name>Sony PlayStation VR</name>
+        <price>1669.00</price>
+        <image>Sony PlayStation VR.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>64</quantity>
+		<sale>Yes</sale>
+    </virtual>
+	<virtual id="Homido - V2">
+        <name>Homido - V2</name>
+        <price>852.00</price>
+        <image>Homido - V2.jpg</image>
+        <manufacturer>Homido</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>19</quantity>
+		<sale>Yes</sale>
+    </virtual>
+	<virtual id="Windows Mixed Reality">
+        <name>Windows Mixed Reality</name>
+        <price>2589.00</price>
+        <image>Windows Mixed Reality.jpg</image>
+        <manufacturer>Windows</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<quantity>73</quantity>
+		<sale>Yes</sale>
+    </virtual>
+</VirtualCatalog>
+
+    
+<AccessoryCatalog>  
+    <accessory id="Samsung Remote">
+        <name>Samsung Remote</name>
+        <price>9.99</price>
+        <image>Samsung Remote.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<quantity>46</quantity>
+		<sale>Yes</sale>
+     </accessory>
+	 
+	 <accessory id="TV Wall Mount">
+        <name>TV Wall Mount</name>
+        <price>18.99</price>
+        <image>TV Wall Mount.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<quantity>80</quantity>
+		<sale>Yes</sale>
+     </accessory>
+	 
+	 <accessory id="PowerBridge">
+        <name>PowerBridge</name>
+        <price>26.99</price>
+        <image>PowerBridge.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>30.0</discount>
+		<quantity>91</quantity>
+		<sale>Yes</sale>
+     </accessory>
+	 
+	 <accessory id="Team Associated">
+        <name>Team Associated</name>
+        <price>73.99</price>
+        <image>Team Associated.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>25.0</discount>
+		<quantity>73</quantity>
+		<sale>Yes</sale>
+     </accessory>
+	 
+	 <accessory id="Dynamic Cardioid">
+        <name>Dynamic Cardioid</name>
+        <price>73.99</price>
+        <image>Dynamic Cardioid.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>25.0</discount>
+		<quantity>45</quantity>
+		<sale>Yes</sale>
+     </accessory>
+	 <accessory id="Cable Matters">
+        <name>Cable Matters</name>
+        <price>73.99</price>
+        <image>Cable Matters.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>25.0</discount>
+		<quantity>77</quantity>
+		<sale>Yes</sale>
+     </accessory>
+</AccessoryCatalog>
+</ProductCatalog>

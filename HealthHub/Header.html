@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>BestDeal</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<!-- Links for Jquery and bootstrap css -->
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script>
+<!-- jqurey script -->
+$(document).ready(function(){
+
+	$('#myCarousel').carousel({
+  interval: 3000
+})
+
+$('.carousel .item').each(function(){
+  var next = $(this).next();
+  if (!next.length) {
+    next = $(this).siblings(':first');
+  }
+  next.children(':first-child').clone().appendTo($(this));
+});
+});
+</script>
+<script type="text/javascript" src="autocomplete.js"></script>
+<style>
+* {
+		box-sizing : unset;
+	}
+	
+.col-md-6{
+		width : 45% ! important;
+	}
+</style>	
+
+
+
+</head>
+<body onload="init()" style='margin: 0px !important; padding: 0 !important;	background: #ffffff !important;	font-family: Georgia, "Times New Roman", Times, serif;	font-size: 12px !important;	'>
+	
+	<!-- Start #logo top content of the webpage-->
+	<div id="logo">
+		<table style="float: left">
+			<tr>
+				<td style="valign: top;"><style>
+					.lgo {
+					width: 180px;
+							
+				}
+								</style><img src="images/site/GameON.jpg" class="lgo" alt=""
+					style="height: 110px" /></td>
+				<td><h1>
+						<a href="#"><b></b></a>
+					</h1></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p>	
+							
+						
+					</p></td>
+			</tr>
+		</table>
+		<div
+			style="float: right; width: 40%; margin-top: 3px; border: 1px solid white; padding: 5px; padding-right: 25px">
+			<em style="color: black;"><b>Search Product:</b></em>
+			<div name="autofillform">
+				<input type="text" name="searchId" value="" class="input"
+					id="searchId" onkeyup="doCompletion()"
+					placeholder="search here.." style="padding: 5px; font-size: 16px;" />
+				<div id="auto-row">
+					<table id="complete-table" class="gridtable"
+						style="position: absolute; width: 315px;"></table>
+				</div>
+			</div>
+		</div>
+
+	</div>
+	<hr />
+	<!-- end #logo -->
+	<!-- start #header -->
+	<!-- menu in header area the header div ends in utility file where header content right side link gets populated with login id cart and logout option -->
+	<div id="header">
+		<div id="menu">
+			<ul>
+				
+				<li><a href="Home" class="first"><span class="glyphicon glyphicon-home">Home</span></a></li>
+				<li><div class="dropdown">
+				<a class="dropbtn">Categories  <i class="arrow down"> </i></a>
+				<div class="dropdown-content">
+				<a href="DoctorList"><span class="glyphicon">Doctors</span></a>
+				<a href="HospitalList"><span class="glyphicon">Hospitals</span></a>
+				<a  href="InsuranceList"><span class="glyphicon">Insurance</span></a>
+				<a  href="ClubList"><span class="glyphicon">HealthClubs</span></a>
+				</div>
+				</div></li>
+			</ul>
+		</div>	
+		<!-- end #menu -->
+		
+				
